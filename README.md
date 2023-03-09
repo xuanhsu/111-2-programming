@@ -6,7 +6,7 @@
 -------
 課程筆記區 
 ---
-[week 2 practice](https://github.com/xuanhsu/111-2-programming/blob/main/practice1_hsu.ipynb) 
+[week 2 practice](https://github.com/xuanhsu/111-2-programming/blob/main/practice%201/practice1_hsu.ipynb) 
 
 ---
 作業連結區 
