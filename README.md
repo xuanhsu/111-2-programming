@@ -11,7 +11,7 @@
 ---
 作業連結區 
 ---
-[HW1]()
+[HW1](https://github.com/xuanhsu/111-2-programming/blob/main/HW1/HW1.ipynb)
 
 ---
 專題連結區 
