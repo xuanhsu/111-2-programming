@@ -13,6 +13,8 @@
 ---
 [HW1](https://github.com/xuanhsu/111-2-programming/blob/main/HW1/HW1.ipynb)
 
+[HW2](https://github.com/xuanhsu/111-2-programming/blob/main/HW2/HW2.ipynb)
+
 ---
 專題連結區 
 ---
