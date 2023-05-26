@@ -19,7 +19,7 @@
 
 [HW4 Code](https://github.com/xuanhsu/111-2-programming/blob/main/HW4/HW4.ipynb)
 
-[HW Medium]
+[HW Medium](https://medium.com/@41071206h/notebookcheck%E7%AD%86%E9%9B%BB%E8%A9%95%E6%B8%AC%E5%85%A7%E5%AE%B9%E6%8A%93%E5%8F%96%E8%88%87%E8%A6%96%E8%A6%BA%E5%8C%96-ba4738a8ac9b)
 
 [HW5 Code](https://github.com/xuanhsu/111-2-programming/blob/main/HW5/HW5.ipynb)
 
