@@ -1024,7 +1024,16 @@ WiFi Websurfing
 Asus TUF Dash F15 FX516PRi7-11370H, GeForce RTX 3070 Laptop GPU, 76 WhAsus ROG Zephyrus G15 GA503QR9 5900HS, GeForce RTX 3080 Laptop GPU, 90 WhMSI GS66 Stealth 10SFSi9-10980HK, GeForce RTX 2070 Super Max-Q, 99.99 WhAorus 15G XBi7-10875H, GeForce RTX 2070 Super Max-Q, 94 WhRazer Blade 15 RTX 2070 Super Max-Qi7-10875H, GeForce RTX 2070 Super Max-Q, 80 WhGigabyte Aero 15 OLED XB-8DE51B0SPi7-10875H, GeForce RTX 2070 Super Max-Q, 94.2 WhBattery Runtime-10%-40%-31%-30%-40%Reader / Idle957728 -24%505 -47%579 -39%518 -46%WiFi v1.3544564 4%364 -33%418 -23%380 -30%364 -33%Load90102147166H.264459   
 
 
-Pros+ comparatively lightweight and compact case+ useful tuning software+ excellent battery life+ 240 Hz panel+ NVMe SSD+ USB 4Cons- RTX 3070 Laptop much slower than it could be- high noise emissions under 3D load- suboptimal keyboard layout- RAM partly soldered- no webcam
+Pros+ comparatively lightweight and compact case
++ useful tuning software
++ excellent battery life
++ 240 Hz panel
++ NVMe SSD
++ USB 4Cons- RTX 3070 Laptop much slower than it could be
+- high noise emissions under 3D load
+- suboptimal keyboard layout
+- RAM partly soldered
+- no webcam
 
 VerdictTUF Dash F15 FX516P. Review unit provided by Asus GermanyWithout a doubt, the Asus TUF Dash F15 FX516P has its pros.In addition to its fast albeit slightly dim 240 Hz display its benefits also include a very long battery life capable of outshining even most office notebooks.We also like the fact that it comes with USB 4 and Thunderbolt support with 100 W Power Delivery charging.However, graphics performance will be a sore point, and we would sincerely advise you not to expect too much. As mentioned above Asus configured the RTX 3070 Laptop at the lowest possible TDP threshold thereby hampering its performance potential massively. In addition, a CPU with just four cores at the Dash F15’s price point is no longer state-of-the-art in 2021. An affordable AMD hexa-core CPU would have been a much better fit.Asus should also consider improving temperature and noise emissions under 3D load, and we would also like to add a webcam to our wish list for the Dash F15’s successor.Price and AvailabilityOur review unit was listed at 1,999 Euros in Germany, although we expect availability to be very limited in the months to come. Asus has not yet officially announced prices for the US.
 
