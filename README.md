@@ -23,7 +23,7 @@
 
 [HW5 Code](https://github.com/xuanhsu/111-2-programming/blob/main/HW5/HW5.ipynb)
 
-[HW5 Medium]
+[HW5 Medium](https://medium.com/@41071206h/%E6%8C%87%E5%AE%9A%E7%AD%86%E9%9B%BB%E5%9E%8B%E8%99%9F%E6%96%87%E7%AB%A0%E6%8A%93%E5%8F%96%E4%B8%A6%E8%A6%96%E8%A6%BA%E5%8C%96-c5a18dfdb4ca)
 
 
 ---
